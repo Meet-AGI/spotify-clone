@@ -1,0 +1,233 @@
+.insta{
+    width:320px;
+    height: 680px;
+    border:2px solid black;
+    border-radius: 12px;
+    position: absolute;
+    
+}
+.cont{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+}
+.container1{
+    margin: 5px;
+    margin-top: 8px;
+    width:150px;
+    display:flex;
+    justify-content: space-around;
+}
+div.name{
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    width:28px;
+}
+.space{
+    width:25px;
+    height: 100%;
+}
+.container{
+    margin:5px ;
+    margin-top: 8px;
+    margin-right: 20px;
+    width:150px;
+    display: flex;
+    justify-content:flex-end;
+}
+.num{
+    width:18px;
+    height: 15px;
+    font-size: 17px;
+    font-weight: 1000;
+    border-radius: 50%;
+    position: absolute;
+    color:white;
+    display: flex;
+    background-color: red;
+    justify-content: center;
+    padding-bottom: 3px;
+    z-index:4;
+    left:288px;
+    top:10px;
+}
+.scont
+{
+    margin: 5px;
+    width:97%;
+    height: 80px;;
+   display: flex;
+   justify-content: space-around;
+    padding: 10px;
+}
+.story{
+    width:81px;
+    height: 81px;
+    background: linear-gradient(45deg, #eb2dc2, #f0449d, #ddd544, #f7a816, #e41224, #e13513, #ff0000); 
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.st1{
+    width:73px;
+    height: 73px;
+    border-radius: 50%;
+    background-image: url('krishna.jpg');
+    background-size: contain;
+}
+.st2{
+    width:73px;
+    height: 73px;
+    border-radius: 50%;
+    background-image: url('srk.jpg');
+    background-size: contain;
+}
+.st3{
+    width:73px;
+    height: 73px;
+    border-radius: 50%;
+    background-image: url('hikaru.webp');
+    background-size: contain;
+}
+.plus{
+    width:25px;
+    height: 25px;;
+    background-color:white;
+    position:absolute;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    top:112px;
+    left:85px;
+}
+.p{
+    width:18px;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.names{
+  width:100%;
+  font-weight: 550;
+  font-size: 14px;
+  display: flex;
+  gap:60px;
+  margin-left: 25px;
+}
+.fixbar{
+ width:320px;
+ border-top: 2px solid black;;
+ position:fixed;
+ display: flex;
+ justify-content:space-around;
+ top:660px;
+}
+img[t]{
+    border-radius: 50%;
+}
+.acccontainer{ 
+width:100%; 
+ margin-top:10px; 
+ border:1px solid black; 
+   font-weight: 600; 
+} 
+
+.acc1{
+    width:100%;
+    /* border:2px solid black; */
+    position: relative;
+    display: flex;
+}
+.follow{
+    width:70px;
+    height: fit-content;
+  border: 2px solid black;;
+    border-radius: 5px;
+    display: inline-flex;
+    justify-content: center;
+    position: relative;
+    left:110px;
+    top:10px;
+}
+  .dp img{
+ margin:5px;
+    border-radius:50%;
+    border:2px solid rgb(255, 0, 17);
+}
+.option{
+    width:20px;
+    /* border:2px solid black; */
+    height: 30px;
+    background-image: url('3dot.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    top:11px;
+    left:115px;
+}
+.nam{
+    position:relative;
+    top:10px;
+}
+.tick{
+    width:15px;
+    height: 15px;
+    background-image: url('tick.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    top:13px;
+    left:3px;
+}
+.post{
+    position:absolute;
+    z-index: -2;
+    width:320px;
+    height: 290px;
+    top:44px;
+    border: 2px solid gray;
+    box-sizing: border-box;
+}
+img[a]{
+    width:320px;
+}
+.opt{
+    width:100%;
+    margin: 5px;;
+    height: 30px;
+    position: relative;
+    top:295px;
+    display :flex;
+    gap:35px;
+}
+img[s]{
+    width:30px;
+    height: 30px;
+    position:relative;
+   left:90px;
+}
+.count{
+    margin-left:2px;
+    font-weight: 600;
+    position: relative;
+    top:300px
+}
+p{
+    margin-left:2px;
+    position: relative;
+    top:285px
+}
+p[t]
+{
+    position: relative;
+    top:300px
+}

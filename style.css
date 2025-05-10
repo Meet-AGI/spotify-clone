@@ -1,0 +1,13 @@
+td{
+    border: 2px solid black;
+}
+thead{
+    font-style: italic;
+    background-color: rgb(245, 209, 163);
+}
+tbody{
+    background-color: rgb(223, 223, 193);
+}
+.meet{
+    background-color: aqua;
+}

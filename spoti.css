@@ -285,6 +285,8 @@ p.cardtext{
     justify-content: space-between;
     margin-top: 50px;
     color: rgb(131, 128, 128);
+    /* width: 100%; */
+    flex-wrap: wrap;
 }
 .footer-column{
     display: flex;

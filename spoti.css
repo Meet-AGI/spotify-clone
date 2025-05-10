@@ -282,22 +282,14 @@ p.cardtext{
 }
 .footer{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top: 50px;
     color: rgb(131, 128, 128);
-  flex-wrap: wrap;
-  width:79vw;
 }
 .footer-column{
     display: flex;
     flex-direction: column;
     margin-left: 20px;
-}
-@media (max-width:500px)
-{
-    .footer{
-        display: block ;
-    }
 }
 @media (max-width: 600px) {
 
